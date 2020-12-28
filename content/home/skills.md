@@ -25,9 +25,14 @@ feature:
   icon_pack: fas
   name: Statistics
 - description: 10%
-  icon: camera-retro
+  icon: python
   icon_pack: fas
-  name: Photography
+  name: python
+ - description: 10%
+  icon: aws
+  icon_pack: fas
+  name: Amazon Web Service 
+ 
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
